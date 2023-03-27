@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KWSP</string>
+    <string name="action_settings">Tetapan</string>
+    <string name="action_about">tentang</string>
+    <string name="menu_home">Rumah</string>
+    <string name="menu_dividend">Dividen</string>
+    <string name="menu_investment">Pelaburan</string>
+    <string name="menu_gallery">Galeri</string>
+    <string name="slogan">Menjaga Masa Depan Anda</string>
+    <string name="logo">Logo KWSP</string>
+    <string name="dividend_2022">Dividen 2022</string>
+    <string name="year">Tahun</string>
+    <string name="dob">(Setiap tahun)</string>
+    <string name="balance_account1">Account 1 Baki</string>
+    <string name="investment_amount">Jumlah Pelaburan</string>
+    <string name="calculate">Kira</string>
+    <string name="reset">Set Semula</string>
+    <string name="age">Umur</string>
+    <string name="version">Versi</string>
+    <string name="locate_us">Lokasi Kami</string>
+    <string name="exit">Keluar</string>
+    <string name="cancel">Batalkan</string>
+    <string name="profile">Profil</string>
+    <string name="name">Nama</string>
+    <string name="email">Emel</string>
+    <string name="save">Simpan</string>
+    <string name="visit_us" translatable="false">Lamani Kami di www.kswp.gov.my</string>
+    <string name="exit_message" translatable="false">Anda pasti untuk keluar?</string>
+    <string name="operating_hour" translatable="false">Waktu Operasi: Isn - Jum 8.30 am hingga 4.30 pm</string>
+    <string name="copy_right" translatable="false">Hak Cipta \\u00A9 2023</string>
+    <string name="about_message" translatable="false">KWSP membantu anda mencapai masa depan yang lebih baik dengan melindungi simpanan persaraan anda dan memberikan perkhidmatan yang cemerlang.</string>
+    <string name="conventional" translatable="false">Konvensional (Setiap Tahun)</string>
+    <string name="shariah" translatable="false">Syariah (Setiap Tahun)</string>
+    <string name="investment_heading" translatable="false">Laburkan sebahagian daripada simpanan anda dengan cara anda</string>
+    <string name="investment_message" translatable="false">Pelaburan KWSP berpandukan Peruntukan Aset Strategik (PAS) untuk mengoptimumkan pulangan dalam had toleransi risiko dana dan memastikan sasaran pelaburan strategik KWSP tercapai.</string>
+    <string name="dividend_message" translatable="false">Untuk semua sumbangan anda, kerajaan menjamin kadar dividen berbayar minimum sebanyak 2.50% untuk Simpanan Konvensional.</string>
+    <string name="aim" translatable="false">Menyedari pulangan dan membolehkan akses yang lebih baik kepada akaun anda</string>
+    <string name="menu_slideshow" translatable="false">Tayangan slaid</string>
+    <string name="nav_header_desc" translatable="false">Pengepala navigasi</string>
+</resources>
