@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/drawable/baseline_account_box_24.xml" value="0.14" />
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/drawable/ic_baseline_dividend_24.xml" value="0.2235" />
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2235" />
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2235" />
@@ -14,9 +15,11 @@
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/layout/fragment_gallery.xml" value="0.358695652173913" />
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/layout/fragment_home.xml" value="0.25" />
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/layout/fragment_investment.xml" value="0.22282608695652173" />
+        <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/layout/fragment_slideshow.xml" value="0.22282608695652173" />
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/layout/nav_header_main.xml" value="0.22282608695652173" />
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/menu/main.xml" value="0.25" />
       </map>
     </option>
   </component>

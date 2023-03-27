@@ -1,23 +1,38 @@
 package my.edu.tarc.epf.ui.dividend
 
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import my.edu.tarc.epf.R
+import androidx.fragment.app.Fragment
+import androidx.lifecycle.ViewModelProvider
+import my.edu.tarc.epf.databinding.FragmentDividendBinding
 
-/**
- * A simple [Fragment] subclass.
- * Use the [DividendFragment.newInstance] factory method to
- * create an instance of this fragment.
- */
 class DividendFragment : Fragment() {
+
+    private var _binding: FragmentDividendBinding? = null
+
+    // This property is only valid between onCreateView and
+    // onDestroyView.
+    private val binding get() = _binding!!
+
     override fun onCreateView(
-        inflater: LayoutInflater, container: ViewGroup?,
+        inflater: LayoutInflater,
+        container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_dividend, container, false)
+    ): View {
+        val dividendViewModel =
+            ViewModelProvider(this).get(DividendViewModel::class.java)
+
+        _binding = FragmentDividendBinding.inflate(inflater, container, false)
+        val root: View = binding.root
+
+
+        return root
+    }
+
+    override fun onDestroyView() {
+        super.onDestroyView()
+        _binding = null
     }
 }

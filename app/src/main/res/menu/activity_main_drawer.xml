@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn="navigation_view">
 
@@ -19,11 +18,11 @@
             android:title="@string/menu_slideshow" />
         <item
             android:id="@+id/nav_dividend"
-            android:icon="@drawable/ic_menu_dividend"
+            android:icon="@drawable/baseline_dividend_24"
             android:title="@string/menu_dividend" />
         <item
             android:id="@+id/nav_investment"
-            android:icon="@drawable/ic_menu_investment"
+            android:icon="@drawable/baseline_investment_24"
             android:title="@string/menu_investment" />
     </group>
 </menu>
